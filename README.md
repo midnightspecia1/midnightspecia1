@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @midnightspecia1
-- 👀 I’m interested in coputer sience in general and more specific in functional programming languages 
+- 👀 I’m interested in computer science in general and more specific in functional programming languages 
 - 🌱 I’m never stop learning, my main language is C++ but i am very exited about Haskell and some Lisps
 
 <!---
